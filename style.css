@@ -21,6 +21,8 @@ body {
     border-radius: 15px;
     padding: 20px;
     margin-top: 150px;
+    border: 2px solid black;
+    box-shadow: 6px 7px 1px 5px black;
 }
 
 img {
@@ -53,8 +55,8 @@ h1 {
 }
 
 p {
-    color: rgb(81, 81, 82);
-    font-weight: 400;
+    color: rgb(127, 127, 128);
+    font-weight: 500;
     font-size: 16px;
 }
 
@@ -68,11 +70,11 @@ p {
     align-items: center;
     justify-content: flex-start;
     margin-top: 50px;
-    margin: 38px 117px 20px 0;
-    gap: 13px;
+    margin: 20px 163px 12px 0;
+    gap: 11px;
 }
 
 span {
-    font-size: 20px;
-    font-weight: 800;
+    font-size: 16px;
+    font-weight: 900;
 }
