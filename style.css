@@ -6,13 +6,13 @@
 
 body {
     background: #f5d04e;
-    min-height: 100hv;
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 0;
     margin: 0;
     font-family: 'figtree';
+    min-height: 100vh;
 }
 
 .form-continer {
@@ -20,7 +20,6 @@ body {
     background: white;
     border-radius: 15px;
     padding: 20px;
-    margin-top: 150px;
     border: 2px solid black;
     box-shadow: 6px 7px 1px 5px black;
 }
@@ -42,6 +41,11 @@ button {
     border: none;
     font-weight: 800;
     font-size: 17px;
+}
+
+h1:hover {
+    cursor: pointer;
+    color: #f5d04e;
 }
 
 h3 {
