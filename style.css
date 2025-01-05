@@ -1,0 +1,18 @@
+body {
+    background: #f5d04e;
+    min-height: 100hv;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+
+.form-continer {
+    width: 322px;
+    background: white;
+    border-radius: 15px;
+    height: 400px;
+    padding: 20px;
+    margin-top: 150px;
+}
